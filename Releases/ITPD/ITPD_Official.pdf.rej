@@ -1,9 +1,0 @@
-diff a/Releases/ITPD/ITPD_Official.pdf b/Releases/ITPD/ITPD_Official.pdf	(rejected hunks)
-@@ -348,7 +348,6 @@
- 
- 2.3 Integration Testing Strategy
- 
--We will base out Integration Tests on the bottom-up approace. This choice will
- We will base our Integration Tests on a bottom-up approach. This choice will
- give us several advantages:
- 
